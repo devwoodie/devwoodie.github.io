@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.579d7369.css",
-    "main.js": "/static/js/main.c5026a3d.js",
+    "main.js": "/static/js/main.f79d1856.js",
     "static/js/787.62280998.chunk.js": "/static/js/787.62280998.chunk.js",
     "static/media/BlackHanSans-Regular.ttf": "/static/media/BlackHanSans-Regular.f4f89062321390018f92.ttf",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
@@ -9,14 +9,13 @@
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
     "static/media/Montserrat-Thin.ttf": "/static/media/Montserrat-Thin.413b6b9f23ece3b343a7.ttf",
-    "static/media/Kakao-qr.jpg": "/static/media/Kakao-qr.cbe44debeaf72de0186a.jpg",
     "index.html": "/index.html",
     "main.579d7369.css.map": "/static/css/main.579d7369.css.map",
-    "main.c5026a3d.js.map": "/static/js/main.c5026a3d.js.map",
+    "main.f79d1856.js.map": "/static/js/main.f79d1856.js.map",
     "787.62280998.chunk.js.map": "/static/js/787.62280998.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.579d7369.css",
-    "static/js/main.c5026a3d.js"
+    "static/js/main.f79d1856.js"
   ]
 }
