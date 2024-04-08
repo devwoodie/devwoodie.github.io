@@ -2,19 +2,20 @@
 title: slick-slider 라이브러리 사용법(반응형)
 date: 2022-04-20 15:16:01 +09:00
 categories: [Frontend, JavaScript & TypeScript]
-tags: [js, slick, slide]
+tags: [JavaScript, slick, slide]
+image: /assets/img/post-cover/slick.png
 ---
 
 
 ---
-## 📝 slick-slider
+## slick-slider
 
 > slick-slider 는 반응형 웹을 지원하는 jQuery 슬라이더 라이브러리입니다.  
 > 기본 사용법과 반응형 작업방법을 설명 드리겠습니다.
 
 ---
 
-### 📜 slick 다운로드 및 css,js 파일 로드
+### slick 다운로드 및 css,js 파일 로드
 
 > slick 메인 홈페이지 오른쪽 상단에 `get it now`를 클릭한 후 다운로드를 진행하거나 그 아래의 CDN주소를 복사해서 `<head>` 태그안에 넣어서 사용하면 됩니다.  
 > 그리고 slick-slider는 jQuery 기반으로 만들어졌기 때문에 jQuery가 필요합니다.
@@ -26,7 +27,7 @@ JS
 ```
 ---
 
-### 📜 기본 사용법
+### 기본 사용법
 
 > slick-slider의 기본 구성은 아래 코드 처럼 div형태로 구성되어 있는 html문서를 슬라이더 형태로 변경해줍니다.
 
@@ -87,7 +88,7 @@ slick-slider 옵션 내의 `responsive` 안에 화면사이즈(breakpoint)를 �
 ---
 ![slick](https://velog.velcdn.com/images/woodie/post/4297932d-46bc-405a-a49b-50ab41d52a17/image.png)
 
-### 📜 자주 사용되는 함수
+### 자주 사용되는 함수
 
 **slider에 새로운 컨텐츠 추가하기**  
 이미 slick이 적용된 상태에서 슬라이더를 동적으로 추가할 때 사용됩니다.
