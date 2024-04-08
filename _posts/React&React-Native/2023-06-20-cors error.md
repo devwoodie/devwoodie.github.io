@@ -16,6 +16,7 @@ image: /assets/img/post-cover/cors.png
 `오류 내용`
 
 > Access to XMLHttpRequest at '[https://cedarsojt.store:4000/signup/list/country/branch'](https://cedarsojt.store:4000/signup/list/country/branch') from origin '[https://cedarsojt.store](https://cedarsojt.store/)' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+{: .prompt-danger }
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcZkC6q%2FbtskBDx9ube%2FPAbKE5Vtkwq2jrdSyLD0I0%2Fimg.png)
 
