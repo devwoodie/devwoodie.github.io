@@ -10,7 +10,7 @@ I like to write neat and tidy code.
 <br/>
 <br/>
 Let's check it out 👇<br/>
-✨ For More Info... [github](https://github.com/devwoodie){:target="_blank"} , [resume](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd?pvs=4){:target="_blank"}
+✨ For More Info... [github](https://github.com/devwoodie){:target="_blank"}, [portfolio](https://portfolio-devwoodie.vercel.app){:target="_blank"} , [resume](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd?pvs=4){:target="_blank"}
 
 
 ### Activities
