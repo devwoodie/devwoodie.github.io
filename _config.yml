@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: devwoodie # the main title
+title: devwoodie's blog # the main title
 
 tagline: Frontend Developer # it will display as the sub-title
 
