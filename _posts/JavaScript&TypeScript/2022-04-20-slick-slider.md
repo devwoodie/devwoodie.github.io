@@ -1,7 +1,7 @@
 ---
 title: slick-slider 라이브러리 사용법(반응형)
 date: 2022-04-20 15:16:01 +09:00
-categories: [Frontend, JavaScript & TypeScript]
+categories: [Dev, JavaScript & TypeScript]
 tags: [JavaScript, slick, slide]
 image: /assets/img/post-cover/slick.png
 ---

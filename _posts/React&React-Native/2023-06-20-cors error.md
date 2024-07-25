@@ -1,7 +1,7 @@
 ---
 title: React 에서 CORS 에러 해결하기
 date: 2023-06-20 13:48:00 +09:00
-categories: [Frontend, React & React-Native]
+categories: [Dev, React & React-Native]
 tags: [React, CORS]
 image: /assets/img/post-cover/cors.png
 ---

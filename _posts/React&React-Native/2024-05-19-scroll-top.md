@@ -1,7 +1,7 @@
 ---
 title: React Router 페이지 이동 시 스크롤 상단으로 끌어 올리기
 date: 2024-05-19 17:38:00 +09:00
-categories: [Frontend, React & React-Native]
+categories: [Dev, React & React-Native]
 tags: [React, scrollTop]
 image: /assets/img/post-cover/scroll-to-top.png
 ---

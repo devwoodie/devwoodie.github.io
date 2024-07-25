@@ -1,7 +1,7 @@
 ---
 title: Component Lifecycle
 date: 2023-03-14 23:29:00 +09:00
-categories: [Frontend, React & React-Native]
+categories: [Dev, React & React-Native]
 tags: [React]
 image: /assets/img/post-cover/lifecycle.png
 ---

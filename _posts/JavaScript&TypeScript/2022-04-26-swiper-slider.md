@@ -1,7 +1,7 @@
 ---
 title: swiper-slider 라이브러리 사용법(반응형)
 date: 2022-04-26 14:02:00 +09:00
-categories: [Frontend, JavaScript & TypeScript]
+categories: [Dev, JavaScript & TypeScript]
 tags: [JavaScript, swiper, slide]
 image: /assets/img/post-cover/swiper.png
 ---

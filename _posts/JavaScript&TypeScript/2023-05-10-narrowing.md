@@ -1,7 +1,7 @@
 ---
 title: Narrowing & Assertion(타입 확정)
 date: 2023-05-10 23:41:00 +09:00
-categories: [Frontend, JavaScript & TypeScript]
+categories: [Dev, JavaScript & TypeScript]
 tags: [TypeScript]
 image: /assets/img/post-cover/ts-img.png
 ---

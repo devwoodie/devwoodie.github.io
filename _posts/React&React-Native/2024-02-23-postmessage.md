@@ -1,7 +1,7 @@
 ---
 title: React-Native-Webview(웹뷰) 데이터 통신 Feat. PostMessage
 date: 2024-02-23 11:31:00 +09:00
-categories: [Frontend, React & React-Native]
+categories: [Dev, React & React-Native]
 tags: [React-Native, webview]
 image: /assets/img/post-cover/react-native-img-2.png
 ---
